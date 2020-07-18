@@ -1,0 +1,19 @@
+{
+	"liveServer.settings.port": 3005,
+	"liveServer.settings.host": "localhost",
+	"liveServer.settings.mount": [
+		["/", "/path1"],
+		["/", "/path2"],
+		["/root", "/dist"]
+	],
+	"liveServer.settings.CustomBrowser": "chrome",
+	"liveServer.settings.https": {
+		"cert": "C:\\https\\server.cert",
+		"key": "C:\\https\\server.key",
+		"passphrase": "12345"
+	},
+	"liveServer.settings.proxy": {
+		"proxyUri": "http://localhost"
+	},
+	"liveServer.settings.useWebExt": true
+}

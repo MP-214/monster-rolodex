@@ -1,0 +1,10 @@
+.searchField {
+	-webkit-appearance: none;
+	border: none;
+	outline: none;
+	padding: 20px;
+	width: 150px;
+	margin-left: 900px;
+	line-height: 60px;
+	margin-bottom: 30px;
+}
